@@ -94,7 +94,5 @@ Author
 
 M. Manjari
 
-Phase 1 Completion
 
-Completed practical cybersecurity exercises covering Days 1 through 15.
 
